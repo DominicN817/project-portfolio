@@ -69,7 +69,7 @@ a:hover,a:active,a:focus{
     font-weight: 300;
     text-align: center;
     overflow: hidden;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .block_title:before,.block_title:after {
     content: "";
@@ -285,7 +285,7 @@ header{
 	position: absolute;
 	top: 0;
 	left: 0;
-	padding: 16px;
+	padding: 20px;
 	background: #111;
 	color: #e66f69;
 }
